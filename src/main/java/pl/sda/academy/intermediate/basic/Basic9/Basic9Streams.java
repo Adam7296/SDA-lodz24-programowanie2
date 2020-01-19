@@ -82,9 +82,7 @@ public class Basic9Streams {
 
                 .forEach(name -> System.out.println("Person: " + name + " is adult."));
 
-
-
-
+        System.out.println("================koniec=============================");
 
 
     }
